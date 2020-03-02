@@ -21,6 +21,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Training](#training)
 - [Tools](#tools)
   - [Dependency Management](#dependency-management)
+  - [Intentionally Vulnerable Applications](#intentionally-vulnerable-applications)
   - [Secret Management](#secret-management)
   - [Static Analysis](#static-analysis)
   - [Threat Modelling](#threat-modelling)
@@ -87,6 +88,16 @@ Open source software packages can speed up the development process by allowing d
 - [Renovate](https://renovate.whitesourcesoftware.com/) - _WhiteSource_
 - [Requires.io](https://requires.io/) - _Olivier Mansion & Alexis Tabary_
 - [Snyk Open Source](https://snyk.io/) - _Snyk_
+
+### Intentionally Vulnerable Applications
+
+Intentionally vulnerable applications are often useful when developing security tests and tooling to provide a place you can run tests and make sure they fail correctly. These applications can also be useful for understanding how common vulnerabilities are introduced into applications and let you practice your skills at exploiting them.
+
+- [Bad SSL](https://github.com/chromium/badssl.com) - _The Chromium Project_
+- [Damn Vulnerable Web App](http://www.dvwa.co.uk/) - _Ryan Dewhurst_
+- [Juice Shop](https://github.com/bkimminich/juice-shop) - _OWASP_
+- [NodeGoat](https://github.com/OWASP/NodeGoat) - _OWASP_
+- [Vulnerable Web Apps Directory](https://owasp.org/www-project-vulnerable-web-applications-directory) - _OWASP_
 
 ### Secret Management
 
@@ -191,3 +202,4 @@ Threat modelling is an engineering exercise that aims to identify threats, vulne
 - [Awesome Dynamic Analysis](https://github.com/mre/awesome-dynamic-analysis/) - _Matthias Endler_
 - [Awesome Static Analysis](https://github.com/mre/awesome-static-analysis/) - _Matthias Endler_
 - [Awesome Threat Modelling](https://github.com/hysnsec/awesome-threat-modelling) - _Practical DevSecOps_
+- [Vulnerable Web Apps Directory](https://owasp.org/www-project-vulnerable-web-applications-directory) - _OWASP_
