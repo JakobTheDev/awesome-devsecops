@@ -21,8 +21,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Training](#training)
 - [Tools](#tools)
   - [Dependency Management](#dependency-management)
+  - [Dynamic Analysis](#dynamic-analysis)
   - [Intentionally Vulnerable Applications](#intentionally-vulnerable-applications)
-  - [Secret Management](#secret-management)
+  - [Secrets Management](#secrets-management)
   - [Static Analysis](#static-analysis)
   - [Threat Modelling](#threat-modelling)
 - [Related Lists](#related-lists)
@@ -89,6 +90,15 @@ Open source software packages can speed up the development process by allowing d
 - [Requires.io](https://requires.io/) - _Olivier Mansion & Alexis Tabary_
 - [Snyk Open Source](https://snyk.io/) - _Snyk_
 
+### Dynamic Analysis
+
+Dynamic Analysis Security Testing (DAST) is a form of black-box security testing where a security scanner interacts with a running instance of an application, emulating malicious activity to find common vulnerabilities. DAST tools are commonly used in the initial phases of a penetration test, and can find vulnerabilities such as cross-site scripting, SQL injection, cross-site request forgery and information disclosure.
+
+- [BurpSuite Enterprise Edition](https://portswigger.net/burp/enterprise) - _PortSwigger (Paid)_
+- [Gauntlt](https://github.com/gauntlt/gauntlt) - _Gauntlt_
+- [SSL Labs Scan](https://github.com/ssllabs/ssllabs-scan) - _SSL Labs_
+- [Zed Attack Proxy (ZAP)](https://github.com/zaproxy/zaproxy) - _OWASP_
+
 ### Intentionally Vulnerable Applications
 
 Intentionally vulnerable applications are often useful when developing security tests and tooling to provide a place you can run tests and make sure they fail correctly. These applications can also be useful for understanding how common vulnerabilities are introduced into applications and let you practice your skills at exploiting them.
@@ -99,7 +109,7 @@ Intentionally vulnerable applications are often useful when developing security 
 - [NodeGoat](https://github.com/OWASP/NodeGoat) - _OWASP_
 - [Vulnerable Web Apps Directory](https://owasp.org/www-project-vulnerable-web-applications-directory) - _OWASP_
 
-### Secret Management
+### Secrets Management
 
 The software we write needs to use secrets (passwords, API keys, certificates, database connection strings) to access resources, yet we cannot store secrets within the codebase as this leaves them vulnerable to compromise. Secret management tools provide a means to securely store, access and manage secrets.
 
@@ -124,6 +134,7 @@ Static Analysis Security Testing (SAST) tools scan software for vulnerabilities 
 <!-- omit in toc -->
 #### Multi-Language Support
 
+- [DevSkim](https://github.com/microsoft/DevSkim) - _Microsoft_
 - [Graudit](https://github.com/wireghoul/graudit/) - _Eldar Marcussen_
 - [LGTM](https://lgtm.com/) - _Semmle_
 - [RIPS](https://www.ripstech.com/) - _RIPS Technologies (Paid)_
@@ -143,6 +154,7 @@ Static Analysis Security Testing (SAST) tools scan software for vulnerabilities 
 #### Containers
 
 - [Clair](https://github.com/quay/clair) - _Quay_
+- [Snyk Container](https://snyk.io/product/container-vulnerability-management/) - _Snyk (Paid Options)_
 
 <!-- omit in toc -->
 #### Java
