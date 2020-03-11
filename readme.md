@@ -22,6 +22,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Tools](#tools)
   - [Dependency Management](#dependency-management)
   - [Dynamic Analysis](#dynamic-analysis)
+  - [Infrastructure as Code Analysis](#infrastructure-as-code-analysis)
   - [Intentionally Vulnerable Applications](#intentionally-vulnerable-applications)
   - [Secrets Management](#secrets-management)
   - [Static Analysis](#static-analysis)
@@ -99,6 +100,29 @@ Dynamic Analysis Security Testing (DAST) is a form of black-box security testing
 - [SSL Labs Scan](https://github.com/ssllabs/ssllabs-scan) - _SSL Labs_
 - [Zed Attack Proxy (ZAP)](https://github.com/zaproxy/zaproxy) - _OWASP_
 
+### Infrastructure as Code Analysis
+
+Infrastructure as Code allows applications to be deployed reliably to a consistent environment. This not only ensures that infrastructure is consistently hardened, but also provides an opportunity to statically and dynamically analyse infrastructure definitions for vulnerable dependencies, hard-coded secrets, insecure configurations and unintentional changes in security configuration. The following tools facilitate this analysis.
+
+<!-- omit in toc -->
+#### Containers
+- [Clair](https://github.com/quay/clair) - _Quay_
+- [Dagda](https://github.com/eliasgranderubio/dagda/) - _Elías Grande_
+- [Snyk Container](https://snyk.io/product/container-vulnerability-management/) - _Snyk (Paid Options)_
+
+<!-- omit in toc -->
+### Terraform
+- [Conftest](https://github.com/instrumenta/conftest) - _Instrumenta_
+- [Terrascan](https://github.com/cesar-rodriguez/terrascan) - _Cesar Rodriguez_
+- [Tfsec](https://github.com/liamg/tfsec) - _Liam Galvin_
+- [Checkov](https://github.com/bridgecrewio/checkov) - _Bridgecrew_
+
+<!-- omit in toc -->
+### Kubernetes
+- [Conftest](https://github.com/instrumenta/conftest) - _Instrumenta_
+- [Kubectrl Kubesec](https://github.com/controlplaneio/kubectl-kubesec) - _ControlPlane_
+- [Kube-Score](https://github.com/zegl/kube-score) - _Gustav Westling_
+
 ### Intentionally Vulnerable Applications
 
 Intentionally vulnerable applications are often useful when developing security tests and tooling to provide a place you can run tests and make sure they fail correctly. These applications can also be useful for understanding how common vulnerabilities are introduced into applications and let you practice your skills at exploiting them.
@@ -129,7 +153,7 @@ The software we write needs to use secrets (passwords, API keys, certificates, d
 
 ### Static Analysis
 
-Static Analysis Security Testing (SAST) tools scan software for vulnerabilities without executing he target software. Typically static analysis will scan the source code for security flaws such as the use of unsafe functions, hard-coded secrets and configuration issues. SAST tools often come in the form of IDE plugins and CLIs that can be integrated into CI/CD pipelines.
+Static Analysis Security Testing (SAST) tools scan software for vulnerabilities without executing the target software. Typically, static analysis will scan the source code for security flaws such as the use of unsafe functions, hard-coded secrets and configuration issues. SAST tools often come in the form of IDE plugins and CLIs that can be integrated into CI/CD pipelines.
 
 <!-- omit in toc -->
 #### Multi-Language Support
@@ -149,12 +173,6 @@ Static Analysis Security Testing (SAST) tools scan software for vulnerabilities 
 #### C#
 
 - [Puma Scan](https://pumascan.com/) - _Puma Security (Paid Options)_
-
-<!-- omit in toc -->
-#### Containers
-
-- [Clair](https://github.com/quay/clair) - _Quay_
-- [Snyk Container](https://snyk.io/product/container-vulnerability-management/) - _Snyk (Paid Options)_
 
 <!-- omit in toc -->
 #### Java
