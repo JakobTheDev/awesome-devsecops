@@ -111,14 +111,14 @@ Infrastructure as Code allows applications to be deployed reliably to a consiste
 - [Snyk Container](https://snyk.io/product/container-vulnerability-management/) - _Snyk (Paid Options)_
 
 <!-- omit in toc -->
-### Terraform
+#### Terraform
 - [Conftest](https://github.com/instrumenta/conftest) - _Instrumenta_
 - [Terrascan](https://github.com/cesar-rodriguez/terrascan) - _Cesar Rodriguez_
 - [Tfsec](https://github.com/liamg/tfsec) - _Liam Galvin_
 - [Checkov](https://github.com/bridgecrewio/checkov) - _Bridgecrew_
 
 <!-- omit in toc -->
-### Kubernetes
+#### Kubernetes
 - [Conftest](https://github.com/instrumenta/conftest) - _Instrumenta_
 - [Kubectrl Kubesec](https://github.com/controlplaneio/kubectl-kubesec) - _ControlPlane_
 - [Kube-Score](https://github.com/zegl/kube-score) - _Gustav Westling_
