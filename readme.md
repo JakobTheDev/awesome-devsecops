@@ -73,8 +73,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Training
 
+- [Cybrary](https://www.cybrary.it/) - _Cybrary_
+- [PentesterLab](https://pentesterlab.com/) - _PentesterLab_
 - [Security Training for Engineers](https://sudo.pagerduty.com/for_engineers/) - _Pager Duty_
 - [Security Training for Everyone](https://sudo.pagerduty.com/for_everyone/) - _Pager Duty_
+- [Web Security Academy](https://portswigger.net/web-security) - _PortSwigger_
 
 ## Tools
 
