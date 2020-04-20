@@ -58,7 +58,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Coding Standards](https://wiki.sei.cmu.edu/confluence/display/seccode/SEI+CERT+Coding+Standards) - _CERT_
 - [Proactive Controls](https://owasp.org/www-project-proactive-controls/) - _OWASP_
 - [Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines) - _Mozilla_
-- [Secure Coding Practices Quick Reference Guide](https://www.owasp.org/images/0/08/OWASP_SCP_Quick_Reference_Guide_v2.pdf) - _OWASP_
+- [Secure Coding Practices Quick Reference Guide](https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_v2.pdf) - _OWASP_
 
 ### Secure Development Lifecycle Framework
 
@@ -238,7 +238,7 @@ Threat modelling is an engineering exercise that aims to identify threats, vulne
 
 ## Related Lists
 
-- [Awesome Dynamic Analysis](https://github.com/analysis-tools-dev/awesome-dynamic-analysis/) - _Matthias Endler_
-- [Awesome Static Analysis](https://github.com/analysis-tools-dev/awesome-static-analysis/) - _Matthias Endler_
+- [Awesome Dynamic Analysis](https://github.com/analysis-tools-dev/dynamic-analysis/) - _Matthias Endler_
+- [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis/) - _Matthias Endler_
 - [Awesome Threat Modelling](https://github.com/hysnsec/awesome-threat-modelling) - _Practical DevSecOps_
 - [Vulnerable Web Apps Directory](https://owasp.org/www-project-vulnerable-web-applications-directory) - _OWASP_
