@@ -98,6 +98,7 @@ Open source software packages can speed up the development process by allowing d
 
 Dynamic Analysis Security Testing (DAST) is a form of black-box security testing where a security scanner interacts with a running instance of an application, emulating malicious activity to find common vulnerabilities. DAST tools are commonly used in the initial phases of a penetration test, and can find vulnerabilities such as cross-site scripting, SQL injection, cross-site request forgery and information disclosure.
 
+- [Automatic API Attack Tool](https://github.com/imperva/automatic-api-attack-tool) - _Imperva_
 - [BurpSuite Enterprise Edition](https://portswigger.net/burp/enterprise) - _PortSwigger (Paid)_
 - [Gauntlt](https://github.com/gauntlt/gauntlt) - _Gauntlt_
 - [SSL Labs Scan](https://github.com/ssllabs/ssllabs-scan) - _SSL Labs_
