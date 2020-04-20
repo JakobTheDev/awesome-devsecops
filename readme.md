@@ -237,7 +237,7 @@ Threat modelling is an engineering exercise that aims to identify threats, vulne
 
 ## Related Lists
 
-- [Awesome Dynamic Analysis](https://github.com/mre/awesome-dynamic-analysis/) - _Matthias Endler_
-- [Awesome Static Analysis](https://github.com/mre/awesome-static-analysis/) - _Matthias Endler_
+- [Awesome Dynamic Analysis](https://github.com/analysis-tools-dev/awesome-dynamic-analysis/) - _Matthias Endler_
+- [Awesome Static Analysis](https://github.com/analysis-tools-dev/awesome-static-analysis/) - _Matthias Endler_
 - [Awesome Threat Modelling](https://github.com/hysnsec/awesome-threat-modelling) - _Practical DevSecOps_
 - [Vulnerable Web Apps Directory](https://owasp.org/www-project-vulnerable-web-applications-directory) - _OWASP_
