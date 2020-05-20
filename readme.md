@@ -1,6 +1,11 @@
-# Awesome DevSecOps [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) <!-- omit in toc -->
-
 ![Awesome](media/banner.jpg)
+
+<p align="center">
+  <a href="https://awesome.re">
+    <img alt="Awesome" src="https://awesome.re/badge-flat.svg">
+  </a>
+</p>
+<hr/>
 
 > Curating the best DevSecOps resources and tooling.
 
