@@ -29,6 +29,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Dynamic Analysis](#dynamic-analysis)
   - [Infrastructure as Code Analysis](#infrastructure-as-code-analysis)
   - [Intentionally Vulnerable Applications](#intentionally-vulnerable-applications)
+  - [Monitoring](#monitoring)
   - [Secrets Management](#secrets-management)
   - [Static Analysis](#static-analysis)
   - [Threat Modelling](#threat-modelling)
@@ -145,6 +146,11 @@ Intentionally vulnerable applications are often useful when developing security 
 - [Juice Shop](https://github.com/bkimminich/juice-shop) - _OWASP_ - A web application containing the OWASP Top 10 security vulnerabilities and more.
 - [NodeGoat](https://github.com/OWASP/NodeGoat) - _OWASP_ - A Node.js web application that demonstrates and provides ways to address common security vulnerabilities.
 - [Vulnerable Web Apps Directory](https://owasp.org/www-project-vulnerable-web-applications-directory) - _OWASP_ - A collection of vulnerable web applications for learning purposes.
+
+### Monitoring
+It's not enough to test and harden our software in the lead up to a release. We must also monitor our production software for usage, performance and errors to capture malicious behavior and potential security flaws that we may need to respond to or address. A wide variety of tools are available to monitor different aspects of production software and infrastructure.
+
+- [Csper](https://csper.io/report-uri) - _Csper_ - A set of Content Security Policy tools that can test policies, monitor CRP reports and provide metrics and alerts.
 
 ### Secrets Management
 
