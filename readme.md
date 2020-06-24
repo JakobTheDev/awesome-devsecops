@@ -1,6 +1,6 @@
 # Awesome DevSecOps [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) <!-- omit in toc -->
 
-![Awesome](media/banner.jpg)
+![Awesome](media/banner.png)
 
 > Curating the best DevSecOps resources and tooling.
 
