@@ -236,7 +236,7 @@ Static Analysis Security Testing (SAST) tools scan software for vulnerabilities 
 Threat modelling is an engineering exercise that aims to identify threats, vulnerabilities and attack vectors that represent a risk to something of value.  Based on this understanding of threats, we can design, implement and validate security controls to mitigate threats. The following list of tools assist the threat modelling process.
 
 - [Awesome Threat Modelling](https://github.com/hysnsec/awesome-threat-modelling) - _Practical DevSecOps_ - A curated list of threat modelling resources.
-- [SecuriCAD ](https://www.foreseeti.com/) - _Forseeti_ - Treat modelling and attack simulations for IT infrastructure.
+- [SecuriCAD](https://www.foreseeti.com/) - _Forseeti_ - Treat modelling and attack simulations for IT infrastructure.
 - [IriusRisk](https://iriusrisk.com/) - _IriusRisk_ - Draw threat models and capture threats and countermeasures and manage risk.
 - [Raindance Project](https://github.com/devsecops/raindance) - _DevSecOps_ - Use attack maps to identify attack surface and adversary strategies that may lead to compromise.
 - [SD Elements](https://www.securitycompass.com/sdelements/threat-modeling/) - _Security Compass_ - Identify and rank threats, generate actionable tasks and track related tickets.
@@ -246,7 +246,7 @@ Threat modelling is an engineering exercise that aims to identify threats, vulne
 
 ## Related Lists
 
-- [Awesome Dynamic Analysis](https://github.com/analysis-tools-dev/dynamic-analysis/) - _Matthias Endler_ - A collection of dynamic analysis tools and code quality checkers
-- [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis/) - _Matthias Endler_ - A collection of static analysis tools and code quality checkers
+- [Awesome Dynamic Analysis](https://github.com/analysis-tools-dev/dynamic-analysis/) - _Matthias Endler_ - A collection of dynamic analysis tools and code quality checkers.
+- [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis/) - _Matthias Endler_ - A collection of static analysis tools and code quality checkers.
 - [Awesome Threat Modelling](https://github.com/hysnsec/awesome-threat-modelling) - _Practical DevSecOps_ - A curated list of threat modeling resources.
 - [Vulnerable Web Apps Directory](https://owasp.org/www-project-vulnerable-web-applications-directory) - _OWASP_ - A collection of vulnerable web applications for learning purposes.
