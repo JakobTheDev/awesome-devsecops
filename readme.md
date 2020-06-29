@@ -9,7 +9,7 @@
 
 > Curating the best DevSecOps resources and tooling.
 
-DevSecOps is an extension of the DevOps movement that aims to bring security practices into the development lifecycle through developer-centric security tooling and processes.
+[DevSecOps](https://www.rapid7.com/fundamentals/devsecops/) is an extension of the [DevOps](https://www.atlassian.com/devops) movement that aims to bring security practices into the development lifecycle through developer-centric security tooling and processes.
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
