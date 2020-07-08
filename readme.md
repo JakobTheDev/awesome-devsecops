@@ -222,7 +222,7 @@ Static Analysis Security Testing (SAST) tools scan software for vulnerabilities 
 <!-- omit in toc -->
 #### PHP
 
-- [Phan](https://github.com/phan/phan) - _Phan_ - Borad static analysis for PHP applications with some support for security scanning features.
+- [Phan](https://github.com/phan/phan) - _Phan_ - Broad static analysis for PHP applications with some support for security scanning features.
 - [PHPCS Security Audit](https://github.com/FloeDesignTechnologies/phpcs-security-audit) - _Floe_ - PHP static analysis with rules for PHP, Drupal 7 and PHP related CVEs.
 - [Progpilot](https://github.com/designsecurity/progpilot) - _Design Security_ - Static analysis for PHP source code.
 
