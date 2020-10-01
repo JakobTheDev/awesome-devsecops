@@ -169,6 +169,7 @@ The software we write needs to use secrets (passwords, API keys, certificates, d
 - [CyberArk Application Access Manager](https://www.cyberark.com/products/privileged-account-security-solution/application-access-manager/) - _CyberArk_ - Secrets management for applications including secret rotation and auditing.
 - [Docker Secrets](https://docs.docker.com/engine/swarm/secrets/) - _Docker_ - Store and manage access to secrets within a Docker swarm.
 - [Git Secrets](https://github.com/awslabs/git-secrets) - _Amazon AWS_ - Scan git repositories for secrets committed within code or commit messages.
+- [Gopass](https://github.com/gopasspw/gopass) - _Gopass_ - Password manager for teams relying on Git and gpg. Manages secrets in encrypted files and repositories.
 - [Google Cloud Key Management Service (KMS)](https://cloud.google.com/kms) - _Google Cloud Platform_ - Securely store secrets within GCP.
 - [HashiCorp Vault](https://www.vaultproject.io/) - _HashiCorp_ - Securely store secrets via UI, CLI or HTTP API.
 - [Pinterest Knox](https://github.com/pinterest/knox) - _Pinterest_ - Securely store, rotate and audit secrets.
