@@ -80,7 +80,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Training
 
-- [Practical DevSecOps](https://www.practical-devsecops.com) - _Practical DevSecOps_ - Learn DevSecOps concepts, tools and techniques from Industry experts with a practical and hands-on course. Master the real-world skills in our state of the art online lab and achieve your DevSecOps certifications like **Certified DevSecOps Professional**, **Certified DevSecOps Expert**, **Certified DevSecOps Architect**, and **Certified DevSecOps Leader**.
+- [Practical DevSecOps](https://www.practical-devsecops.com) - _Practical DevSecOps_ - Learn DevSecOps concepts, tools and techniques from Industry experts with a practical and hands-on course. Master the real-world skills in our state of the art online lab and achieve your DevSecOps certifications.
 - [Cybrary](https://www.cybrary.it/) - _Cybrary_ - Subscription based online courses with dedicated categories for cybersecurity and DevSecOps.
 - [PentesterLab](https://pentesterlab.com/) - _PentesterLab_ - Hands on labs to understand and exploit simple and advanced web vulnerabilities.
 - [Security Training for Engineers](https://sudo.pagerduty.com/for_engineers/) - _Pager Duty_ - A presentation created and open-sourced by PagerDuty to provide security training to software engineers.
