@@ -82,6 +82,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Cybrary](https://www.cybrary.it/) - _Cybrary_ - Subscription based online courses with dedicated categories for cybersecurity and DevSecOps.
 - [PentesterLab](https://pentesterlab.com/) - _PentesterLab_ - Hands on labs to understand and exploit simple and advanced web vulnerabilities.
+- [Practical DevSecOps](https://www.practical-devsecops.com) - _Practical DevSecOps_ - Learn DevSecOps concepts, tools, and techniques from industry experts with practical DevSecOps using state of the art browser-based labs.
 - [Security Training for Engineers](https://sudo.pagerduty.com/for_engineers/) - _Pager Duty_ - A presentation created and open-sourced by PagerDuty to provide security training to software engineers.
 - [Security Training for Everyone](https://sudo.pagerduty.com/for_everyone/) - _Pager Duty_ - A presentation created and open-sourced by PagerDuty to provide security training employees.
 - [Web Security Academy](https://portswigger.net/web-security) - _PortSwigger_ - A set of materials and labs to learn and exploit common web vulnerabilities.
