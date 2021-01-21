@@ -131,13 +131,14 @@ Infrastructure as Code allows applications to be deployed reliably to a consiste
 - [Anchore Engine](https://anchore.com/opensource/) - _Anchore, Inc_ - Deep inspection of Docker images for CVEs and checking against custom policies. Engine behind their enterprise products that integrate against registries, orchestrators and CI/CD products.
 - [Clair](https://github.com/quay/clair) - _Quay_ - Scan App Container and Docker containers for publicly disclosed vulnerabilities.
 - [Dagda](https://github.com/eliasgranderubio/dagda/) - _Elías Grande_ - Compares OS and software dependency versions installed in Docker containers with public vulnerability databases, and also performs virus scanning.
-- [Hadolint](https://github.com/hadolint/hadolint) - _Hadolint_ - Checks a Dockerfile against known rules and validates inline bash code in RUN statements. 
+- [Hadolint](https://github.com/hadolint/hadolint) - _Hadolint_ - Checks a Dockerfile against known rules and validates inline bash code in RUN statements.
 - [Snyk Container](https://snyk.io/product/container-vulnerability-management/) - _Snyk_ - Scan Docker and Kubernetes applications for security vulnerabilities during CI/CD or via continuous monitoring.
 - [Trivy](https://github.com/aquasecurity/trivy) - _Aqua Security_ - Simple and comprehensive vulnerability scanner for containers.
 
 <!-- omit in toc -->
 #### Terraform
 - [Checkov](https://github.com/bridgecrewio/checkov) - _Bridgecrew_ - Scan Terraform, AWS CloudFormation and Kubernetes templates for insecure configuration.
+- [Regula](https://github.com/fugue/regula) - _Fugue_ - Evaluate Terraform infrastructure-as-code for potential security misconfigurations and compliance violations prior to deployment.
 - [Terrascan](https://github.com/cesar-rodriguez/terrascan) - _Cesar Rodriguez_ - Scan Terraform templates for best practice security configuration.
 - [Tfsec](https://github.com/liamg/tfsec) - _Liam Galvin_ - Scan Terraform templates for security misconfiguration and noncompliance with AWS, Azure and GCP security best practice.
 
