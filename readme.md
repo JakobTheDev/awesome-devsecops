@@ -193,7 +193,7 @@ Static Analysis Security Testing (SAST) tools scan software for vulnerabilities 
 <!-- omit in toc -->
 #### Multi-Language Support
 
-- [DevSkim](https://github.com/microsoft/DevSkim) - _Microsoft_ - An IDE plugin that provides inline security analysis for a number of programming languages.
+- [DevSkim](https://github.com/microsoft/DevSkim) - _Microsoft_ - A set of IDE plugins, CLIs and other tools that provide security analysis for a number of programming languages.
 - [Graudit](https://github.com/wireghoul/graudit/) - _Eldar Marcussen_ - Grep source code for potential security flaws with custom or pre-configured regex signatures.
 - [Hawkeye](https://github.com/hawkeyesec/scanner-cli) - _Hawkeyesec_ - Modularised CLI tool for project security, vulnerability and general risk highlighting.
 - [LGTM](https://lgtm.com/) - _Semmle_ - Scan and monitor code for security vulnerabilities using custom or built-in CodeQL queries.
