@@ -123,10 +123,13 @@ Dynamic Analysis Security Testing (DAST) is a form of black-box security testing
 
 Infrastructure as Code allows applications to be deployed reliably to a consistent environment. This not only ensures that infrastructure is consistently hardened, but also provides an opportunity to statically and dynamically analyse infrastructure definitions for vulnerable dependencies, hard-coded secrets, insecure configuration and unintentional changes in security configuration. The following tools facilitate this analysis.
 
+#### Multi-Platform
+- [Checkov](https://github.com/bridgecrewio/checkov) - _Bridgecrew_ - Scan Terraform, AWS CloudFormation and Kubernetes templates for insecure configuration.
+- [KICS](https://github.com/Checkmarx/kics) - _Checkmarx_ - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle.
+
 <!-- omit in toc -->
 #### Cloud Formation
 - [Cfn Nag](https://github.com/stelligent/cfn_nag) - _Stelligent_ - Scan AWS CloudFormation templates for insecure configuration.
-- [Checkov](https://github.com/bridgecrewio/checkov) - _Bridgecrew_ - Scan Terraform, AWS CloudFormation and Kubernetes templates for insecure configuration.
 
 <!-- omit in toc -->
 #### Containers
@@ -139,7 +142,6 @@ Infrastructure as Code allows applications to be deployed reliably to a consiste
 
 <!-- omit in toc -->
 #### Terraform
-- [Checkov](https://github.com/bridgecrewio/checkov) - _Bridgecrew_ - Scan Terraform, AWS CloudFormation and Kubernetes templates for insecure configuration.
 - [Regula](https://github.com/fugue/regula) - _Fugue_ - Evaluate Terraform infrastructure-as-code for potential security misconfigurations and compliance violations prior to deployment.
 - [Terraform Compliance](https://terraform-compliance.com/) - _terraform-compliance_ - A lightweight, security and compliance focused test framework against terraform to enable negative testing capability for your infrastructure-as-code.
 - [Terrascan](https://github.com/cesar-rodriguez/terrascan) - _Cesar Rodriguez_ - Scan Terraform templates for best practice security configuration.
@@ -147,7 +149,6 @@ Infrastructure as Code allows applications to be deployed reliably to a consiste
 
 <!-- omit in toc -->
 #### Kubernetes
-- [Checkov](https://github.com/bridgecrewio/checkov) - _Bridgecrew_ - Scan Terraform, AWS CloudFormation and Kubernetes templates for insecure configuration.
 - [Kube-Score](https://github.com/zegl/kube-score) - _Gustav Westling_ - Scan Kubernetes object definitions for security and performance misconfiguration.
 - [Kubectrl Kubesec](https://github.com/controlplaneio/kubectl-kubesec) - _ControlPlane_ - Plugin for kubesec.io to perform security risk analysis for Kubernetes resources.
 
