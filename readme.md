@@ -176,7 +176,8 @@ It's not enough to test and harden our software in the lead up to a release. We 
 The software we write needs to use secrets (passwords, API keys, certificates, database connection strings) to access resources, yet we cannot store secrets within the codebase as this leaves them vulnerable to compromise. Secret management tools provide a means to securely store, access and manage secrets.
 
 - [Ansible Vault](https://docs.ansible.com/ansible/latest/user_guide/vault.html) - _Ansible_ - Securely store secrets within Ansible pipelines.
-- [AWS Key Management Service (KMS)](https://aws.amazon.com/kms/) - _Amazon AWS_ - Securely store secrets within AWS.
+- [AWS Key Management Service (KMS)](https://aws.amazon.com/kms/) - _Amazon AWS_ - Create and manage cryptographic keys in AWS.
+- [AWS Secrets Manager](https://aws.amazon.com/secrets-manager/) - _Amazon AWS_ - Securely store retrievable application secrets in AWS.
 - [Azure Key Vault](https://azure.microsoft.com/en-au/services/key-vault/) - _Microsoft Azure_ - Securely store secrets within Azure.
 - [BlackBox](https://github.com/StackExchange/blackbox) - _StackExchange_ - Encrypt credentials within your code repository.
 - [Chef Vault](https://github.com/chef/chef-vault) - _Chef_ - Securely store secrets within Chef.
