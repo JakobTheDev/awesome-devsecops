@@ -32,6 +32,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Intentionally Vulnerable Applications](#intentionally-vulnerable-applications)
   - [Monitoring](#monitoring)
   - [Secrets Management](#secrets-management)
+  - [Secrets Scanning](#secrets-scanning)
   - [Static Analysis](#static-analysis)
   - [Threat Modelling](#threat-modelling)
 - [Related Lists](#related-lists)
@@ -190,6 +191,18 @@ The software we write needs to use secrets (passwords, API keys, certificates, d
 - [HashiCorp Vault](https://www.vaultproject.io/) - _HashiCorp_ - Securely store secrets via UI, CLI or HTTP API.
 - [Pinterest Knox](https://github.com/pinterest/knox) - _Pinterest_ - Securely store, rotate and audit secrets.
 - [Secrets Operations (SOPS)](https://github.com/mozilla/sops) - _Mozilla_ - Encrypt keys stored within YAML, JSON, ENV, INI and BINARY files.
+
+### Secrets Scanning
+
+Source control is not a secure place to store secrets such as credentials, API keys or tokens, even if the repo is private. Secrets scanning tools can scan and monitor git repositories and pull-requests for secrets, and can be used to prevent secrets from being committed, or to find and remove secrets that have already been committed to source control.
+
+- [CredScan](https://secdevtools.azurewebsites.net/helpcredscan.html) - _Microsoft_ - A credential scanning tool that can be run as a task in Azure DevOps pipelines.
+- [GitGuardian](https://www.gitguardian.com/) - _GitGuardian_ - A web-based solution that scans and monitors public and private git repositories for secrets.
+- [Gitleaks](https://github.com/zricethezav/gitleaks) - _Zachary Rice_ - Gitleaks is a SAST tool for detecting hardcoded secrets like passwords, api keys, and tokens in git repositories.
+- [git-secrets](https://github.com/awslabs/git-secrets) - _AWS Labs_ - Scans commits, commit messages and merges for secrets. Native support for AWS secret patterns, but can be configured to support other patterns.
+- [Nightfall](https://nightfall.ai/solutions/product/github) - _Nightfall_ - A web-based platform that monitors for sensitive data disclosure across several SDLC tools, including GitHub repositories.
+- [Repo-supervisor](https://github.com/auth0/repo-supervisor) - _Auth0_ - Secrets scanning tool that can run as a CLI, as a Docker container or in AWS Lambda.
+- [truffleHog](https://github.com/trufflesecurity/truffleHog) - _Truffle Security_ - Searches through git repositories for secrets, digging deep into commit history and branches.
 
 ### Static Analysis
 
