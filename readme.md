@@ -17,6 +17,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Contents
 - [Resources](#resources)
   - [Articles](#articles)
+  - [Books](#books)
   - [Communities](#communities)
   - [Conferences](#conferences)
   - [Podcasts](#podcasts)
@@ -41,6 +42,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ### Articles
 
 - [Our Approach to Employee Security Training](https://www.pagerduty.com/blog/security-training-at-pagerduty/) - _Pager Duty_ - Guidelines to running security training within an organisation.
+
+### Books
+
+- [Alice and Bob Learn Application Security](https://www.wiley.com/en-gb/Alice+and+Bob+Learn+Application+Security-p-9781119687405) - _Tanya Janca_ - An accessible and thorough resource for anyone seeking to incorporate, from the beginning of the System Development Life Cycle, best security practices in software development.
 
 ### Communities
 
