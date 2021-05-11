@@ -180,6 +180,7 @@ The software we write needs to use secrets (passwords, API keys, certificates, d
 - [Chef Vault](https://github.com/chef/chef-vault) - _Chef_ - Securely store secrets within Chef.
 - [CredStash](https://github.com/fugue/credstash) - _Fugue_ - Securely store secrets within AWS using KMS and DynamoDB.
 - [CyberArk Application Access Manager](https://www.cyberark.com/products/privileged-account-security-solution/application-access-manager/) - _CyberArk_ - Secrets management for applications including secret rotation and auditing.
+- [Detect Secrets](https://github.com/Yelp/detect-secrets) - _Yelp_ - detect-secrets is an aptly named module for (surprise, surprise) detecting secrets within a code base.
 - [Docker Secrets](https://docs.docker.com/engine/swarm/secrets/) - _Docker_ - Store and manage access to secrets within a Docker swarm.
 - [Git Secrets](https://github.com/awslabs/git-secrets) - _Amazon AWS_ - Scan git repositories for secrets committed within code or commit messages.
 - [Gopass](https://github.com/gopasspw/gopass) - _Gopass_ - Password manager for teams relying on Git and gpg. Manages secrets in encrypted files and repositories.
