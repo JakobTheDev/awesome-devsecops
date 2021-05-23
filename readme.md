@@ -145,6 +145,7 @@ Infrastructure as Code allows applications to be deployed reliably to a consiste
 - [Anchore Engine](https://anchore.com/opensource/) - _Anchore, Inc_ - Deep inspection of Docker images for CVEs and checking against custom policies. Engine behind their enterprise products that integrate against registries, orchestrators and CI/CD products.
 - [Clair](https://github.com/quay/clair) - _Quay_ - Scan App Container and Docker containers for publicly disclosed vulnerabilities.
 - [Dagda](https://github.com/eliasgranderubio/dagda/) - _Elías Grande_ - Compares OS and software dependency versions installed in Docker containers with public vulnerability databases, and also performs virus scanning.
+- [Docker-Bench-Security](https://github.com/docker/docker-bench-security) - _Docker_ - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production
 - [Hadolint](https://github.com/hadolint/hadolint) - _Hadolint_ - Checks a Dockerfile against known rules and validates inline bash code in RUN statements.
 - [Snyk Container](https://snyk.io/product/container-vulnerability-management/) - _Snyk_ - Scan Docker and Kubernetes applications for security vulnerabilities during CI/CD or via continuous monitoring.
 - [Trivy](https://github.com/aquasecurity/trivy) - _Aqua Security_ - Simple and comprehensive vulnerability scanner for containers.
@@ -160,6 +161,9 @@ Infrastructure as Code allows applications to be deployed reliably to a consiste
 #### Kubernetes
 - [Kube-Score](https://github.com/zegl/kube-score) - _Gustav Westling_ - Scan Kubernetes object definitions for security and performance misconfiguration.
 - [Kubectrl Kubesec](https://github.com/controlplaneio/kubectl-kubesec) - _ControlPlane_ - Plugin for kubesec.io to perform security risk analysis for Kubernetes resources.
+
+#### Ansible
+- [Ansible-Lint](https://github.com/ansible-community/ansible-lint) - ansible-lint checks playbooks for practices and behaviour that could potentially be improved. As a community backed project ansible-lint supports only the last two major versions of Ansible. 
 
 ### Intentionally Vulnerable Applications
 
@@ -190,6 +194,7 @@ The software we write needs to use secrets (passwords, API keys, certificates, d
 - [Chef Vault](https://github.com/chef/chef-vault) - _Chef_ - Securely store secrets within Chef.
 - [CredStash](https://github.com/fugue/credstash) - _Fugue_ - Securely store secrets within AWS using KMS and DynamoDB.
 - [CyberArk Application Access Manager](https://www.cyberark.com/products/privileged-account-security-solution/application-access-manager/) - _CyberArk_ - Secrets management for applications including secret rotation and auditing.
+- [Detect Secrets](https://github.com/Yelp/detect-secrets) - _Yelp_ - detect-secrets is an aptly named module for (surprise, surprise) detecting secrets within a code base.
 - [Docker Secrets](https://docs.docker.com/engine/swarm/secrets/) - _Docker_ - Store and manage access to secrets within a Docker swarm.
 - [Git Secrets](https://github.com/awslabs/git-secrets) - _Amazon AWS_ - Scan git repositories for secrets committed within code or commit messages.
 - [Gopass](https://github.com/gopasspw/gopass) - _Gopass_ - Password manager for teams relying on Git and gpg. Manages secrets in encrypted files and repositories.
@@ -222,6 +227,7 @@ Static Analysis Security Testing (SAST) tools scan software for vulnerabilities 
 - [Hawkeye](https://github.com/hawkeyesec/scanner-cli) - _Hawkeyesec_ - Modularised CLI tool for project security, vulnerability and general risk highlighting.
 - [LGTM](https://lgtm.com/) - _Semmle_ - Scan and monitor code for security vulnerabilities using custom or built-in CodeQL queries.
 - [RIPS](https://www.ripstech.com/) - _RIPS Technologies_ - Automated static analysis for PHP, Java and Node.js projects.
+- [SemGrep](https://semgrep.dev/) - _r2c_ - Semgrep is a fast, open-source, static analysis tool that finds bugs and enforces code standards at editor, commit, and CI time.
 - [SonarLint](https://www.sonarlint.org/) - _SonarSource_ - An IDE plugin that highlights potential security security issues, code quality issues and bugs. 
 - [SonarQube](https://www.sonarqube.org/) - _SonarSource_ - Scan code for security and quality issues with support for a wide variety of languages.
 
