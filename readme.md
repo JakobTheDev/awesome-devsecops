@@ -215,6 +215,12 @@ Source control is not a secure place to store secrets such as credentials, API k
 - [Repo-supervisor](https://github.com/auth0/repo-supervisor) - _Auth0_ - Secrets scanning tool that can run as a CLI, as a Docker container or in AWS Lambda.
 - [truffleHog](https://github.com/trufflesecurity/truffleHog) - _Truffle Security_ - Searches through git repositories for secrets, digging deep into commit history and branches.
 
+### Supply Chain Security
+
+Supply chain attacks come in different forms, targeting parts of the SDLC that are inherently 3rd party: tools in CI, external code that's been executed, and more. Supply chain security tooling can defend against these kinds of attacks.
+
+- [Preflight](https://github.com/spectralops/preflight) - _Spectral_ - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems, such as in the recent [Codecov hack](https://spectralops.io/blog/credentials-risk-supply-chain-lessons-from-the-codecov-breach/).
+
 ### Static Analysis
 
 Static Analysis Security Testing (SAST) tools scan software for vulnerabilities without executing the target software. Typically, static analysis will scan the source code for security flaws such as the use of unsafe functions, hard-coded secrets and configuration issues. SAST tools often come in the form of IDE plugins and CLIs that can be integrated into CI/CD pipelines.
