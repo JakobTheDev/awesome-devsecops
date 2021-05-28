@@ -202,7 +202,7 @@ The software we write needs to use secrets (passwords, API keys, certificates, d
 - [HashiCorp Vault](https://www.vaultproject.io/) - _HashiCorp_ - Securely store secrets via UI, CLI or HTTP API.
 - [Pinterest Knox](https://github.com/pinterest/knox) - _Pinterest_ - Securely store, rotate and audit secrets.
 - [Secrets Operations (SOPS)](https://github.com/mozilla/sops) - _Mozilla_ - Encrypt keys stored within YAML, JSON, ENV, INI and BINARY files.
-- [Teller](https://github.com/spectralops/teller) - _Spectral_ A secrets management tool for developers - never leave your command line for secrets.
+- [Teller](https://github.com/spectralops/teller) - _Spectral_ - A secrets management tool for developers - never leave your command line for secrets.
 
 ### Secrets Scanning
 
