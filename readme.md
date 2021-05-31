@@ -35,6 +35,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Secrets Management](#secrets-management)
   - [Secrets Scanning](#secrets-scanning)
   - [Static Analysis](#static-analysis)
+  - [Supply Chain Security](#supply-chain-security)
   - [Threat Modelling](#threat-modelling)
 - [Related Lists](#related-lists)
 
@@ -287,6 +288,14 @@ Static Analysis Security Testing (SAST) tools scan software for vulnerabilities 
 
 - [Brakeman](https://github.com/presidentbeef/brakeman) - _Justin Collins_ - Static analysis tool which checks Ruby on Rails applications for security vulnerabilities.
 - [DawnScanner](https://github.com/thesp0nge/dawnscanner) - _Paolo Perego_ - Security scanning for Ruby scripts and web application. Supports Ruby on Rails, Sinatra and Padrino frameworks.
+
+
+### Supply Chain Security
+
+Supply chain attacks come in different forms, targeting parts of the SDLC that are inherently 3rd party: tools in CI, external code that's been executed, and more. Supply chain security tooling can defend against these kinds of attacks.
+
+- [Preflight](https://github.com/spectralops/preflight) - _Spectral_ - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems, such as in the recent [Codecov hack](https://spectralops.io/blog/credentials-risk-supply-chain-lessons-from-the-codecov-breach/).
+
 
 ### Threat Modelling
 
