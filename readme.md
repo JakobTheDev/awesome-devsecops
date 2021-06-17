@@ -196,7 +196,6 @@ The software we write needs to use secrets (passwords, API keys, certificates, d
 - [Chef Vault](https://github.com/chef/chef-vault) - _Chef_ - Securely store secrets within Chef.
 - [CredStash](https://github.com/fugue/credstash) - _Fugue_ - Securely store secrets within AWS using KMS and DynamoDB.
 - [CyberArk Application Access Manager](https://www.cyberark.com/products/privileged-account-security-solution/application-access-manager/) - _CyberArk_ - Secrets management for applications including secret rotation and auditing.
-- [Detect Secrets](https://github.com/Yelp/detect-secrets) - _Yelp_ - An aptly named module for (surprise, surprise) detecting secrets within a code base.
 - [Docker Secrets](https://docs.docker.com/engine/swarm/secrets/) - _Docker_ - Store and manage access to secrets within a Docker swarm.
 - [Git Secrets](https://github.com/awslabs/git-secrets) - _Amazon AWS_ - Scan git repositories for secrets committed within code or commit messages.
 - [Gopass](https://github.com/gopasspw/gopass) - _Gopass_ - Password manager for teams relying on Git and gpg. Manages secrets in encrypted files and repositories.
@@ -211,6 +210,7 @@ The software we write needs to use secrets (passwords, API keys, certificates, d
 Source control is not a secure place to store secrets such as credentials, API keys or tokens, even if the repo is private. Secrets scanning tools can scan and monitor git repositories and pull-requests for secrets, and can be used to prevent secrets from being committed, or to find and remove secrets that have already been committed to source control.
 
 - [CredScan](https://secdevtools.azurewebsites.net/helpcredscan.html) - _Microsoft_ - A credential scanning tool that can be run as a task in Azure DevOps pipelines.
+- [Detect Secrets](https://github.com/Yelp/detect-secrets) - _Yelp_ - An aptly named module for (surprise, surprise) detecting secrets within a code base.
 - [GitGuardian](https://www.gitguardian.com/) - _GitGuardian_ - A web-based solution that scans and monitors public and private git repositories for secrets.
 - [Gitleaks](https://github.com/zricethezav/gitleaks) - _Zachary Rice_ - Gitleaks is a SAST tool for detecting hardcoded secrets like passwords, api keys, and tokens in git repositories.
 - [git-secrets](https://github.com/awslabs/git-secrets) - _AWS Labs_ - Scans commits, commit messages and merges for secrets. Native support for AWS secret patterns, but can be configured to support other patterns.
