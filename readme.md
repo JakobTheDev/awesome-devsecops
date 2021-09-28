@@ -77,7 +77,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Secure Development Lifecycle Framework
 
-- [Building Security In Maturity Model (BSIMM)](https://www.bsimm.com/framework.html) - _Synopsys) - A framework for software security created by observing and analysing data from leading software security initiatives.
+- [Building Security In Maturity Model (BSIMM)](https://www.bsimm.com/framework.html) - _Synopsys_ - A framework for software security created by observing and analysing data from leading software security initiatives.
 - [Secure Development Lifecycle](https://www.microsoft.com/en-us/securityengineering/sdl/practices) - _Microsoft_ - A collection of tools and practices that serve as a framework for the secure development lifecycle.
 - [Secure Software Development Framework](https://csrc.nist.gov/CSRC/media/Publications/white-paper/2019/06/07/mitigating-risk-of-software-vulnerabilities-with-ssdf/draft/documents/ssdf-for-mitigating-risk-of-software-vulns-draft.pdf) - _NIST_ - A framework consisting of practices, tasks and implementation examples for a secure development lifecycle.
 - [Software Assurance Maturity Model](https://github.com/OWASP/samm) - _OWASP_ - A framework to measure and improve the maturity of the secure development lifecycle.
