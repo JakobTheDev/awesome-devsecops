@@ -112,6 +112,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 Open source software packages can speed up the development process by allowing developers to implement functionality without having to write all of the code. However, with the open source code comes open source vulnerabilities. Dependency management tools help manage vulnerabilities in open source packages by identifying and updating packages with known vulnerabilities.
 
+- [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 - [Dependabot](https://dependabot.com/) - _GitHub_ - Automatically scan GitHub repositories for vulnerabilities and create pull requests to merge in patched dependencies.
 - [Dependency-Check](https://owasp.org/www-project-dependency-check/) - _OWASP_ - Scans dependencies for publicly disclosed vulnerabilities using CLI or build server plugins.
 - [Dependency-Track](https://dependencytrack.org/) - _OWASP_ - Monitor the volume and severity of vulnerable dependencies across multiple projects over time.
