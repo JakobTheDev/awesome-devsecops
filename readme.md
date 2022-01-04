@@ -138,8 +138,10 @@ Dynamic Analysis Security Testing (DAST) is a form of black-box security testing
 Infrastructure as Code allows applications to be deployed reliably to a consistent environment. This not only ensures that infrastructure is consistently hardened, but also provides an opportunity to statically and dynamically analyse infrastructure definitions for vulnerable dependencies, hard-coded secrets, insecure configuration and unintentional changes in security configuration. The following tools facilitate this analysis.
 
 #### Multi-Platform
+
 - [Checkov](https://github.com/bridgecrewio/checkov) - _Bridgecrew_ - Scan Terraform, AWS CloudFormation and Kubernetes templates for insecure configuration.
 - [KICS](https://github.com/Checkmarx/kics) - _Checkmarx_ - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle.
+- [Spectral DeepConfig](https://spectralops.io/blog/spectral-launches-deepconfig-to-ensure-no-misconfiguration-at-all-layers-of-software/) - _Spectral_ - Find misconfiguration both in infrastructure as well as apps as early as commit time.
 
 <!-- omit in toc -->
 #### Cloud Formation
@@ -204,9 +206,11 @@ The software we write needs to use secrets (passwords, API keys, certificates, d
 - [Gopass](https://github.com/gopasspw/gopass) - _Gopass_ - Password manager for teams relying on Git and gpg. Manages secrets in encrypted files and repositories.
 - [Google Cloud Key Management Service (KMS)](https://cloud.google.com/kms) - _Google Cloud Platform_ - Securely store secrets within GCP.
 - [HashiCorp Vault](https://www.vaultproject.io/) - _HashiCorp_ - Securely store secrets via UI, CLI or HTTP API.
+- [Keyscope](https://github.com/SpectralOps/keyscope) - _Spectral_ - Keyscope is an open source key and secret workflow tool (validation, invalidation, etc.) built in Rust.
 - [Pinterest Knox](https://github.com/pinterest/knox) - _Pinterest_ - Securely store, rotate and audit secrets.
 - [Secrets Operations (SOPS)](https://github.com/mozilla/sops) - _Mozilla_ - Encrypt keys stored within YAML, JSON, ENV, INI and BINARY files.
 - [Teller](https://github.com/spectralops/teller) - _Spectral_ - A secrets management tool for developers - never leave your command line for secrets.
+
 
 ### Secrets Scanning
 
