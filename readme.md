@@ -142,6 +142,7 @@ Infrastructure as Code allows applications to be deployed reliably to a consiste
 - [Checkov](https://github.com/bridgecrewio/checkov) - _Bridgecrew_ - Scan Terraform, AWS CloudFormation and Kubernetes templates for insecure configuration.
 - [KICS](https://github.com/Checkmarx/kics) - _Checkmarx_ - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle.
 - [Spectral DeepConfig](https://spectralops.io/blog/spectral-launches-deepconfig-to-ensure-no-misconfiguration-at-all-layers-of-software/) - _Spectral_ - Find misconfiguration both in infrastructure as well as apps as early as commit time.
+- [Terrascan](https://github.com/accurics/terrascan) - _Accurics_ - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 
 <!-- omit in toc -->
 #### Cloud Formation
