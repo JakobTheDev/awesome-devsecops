@@ -78,9 +78,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ### Secure Development Lifecycle Framework
 
 - [Building Security In Maturity Model (BSIMM)](https://www.bsimm.com/framework.html) - _Synopsys_ - A framework for software security created by observing and analysing data from leading software security initiatives.
+- [OWASP Devsecops Maturity Model (DSOMM)](https://dsomm.timo-pagel.de) - _OWASP_ - The OWASP DevSecOps Maturity Model provides opportunities to harden DevOps strategies and shows how these can be prioritized.
 - [Secure Development Lifecycle](https://www.microsoft.com/en-us/securityengineering/sdl/practices) - _Microsoft_ - A collection of tools and practices that serve as a framework for the secure development lifecycle.
 - [Secure Software Development Framework](https://csrc.nist.gov/CSRC/media/Publications/white-paper/2019/06/07/mitigating-risk-of-software-vulnerabilities-with-ssdf/draft/documents/ssdf-for-mitigating-risk-of-software-vulns-draft.pdf) - _NIST_ - A framework consisting of practices, tasks and implementation examples for a secure development lifecycle.
-- [Software Assurance Maturity Model](https://github.com/OWASP/samm) - _OWASP_ - A framework to measure and improve the maturity of the secure development lifecycle.
+- [Software Assurance Maturity Model](https://github.com/owaspsamm) - _OWASP_ - A framework to measure and improve the maturity of the secure development lifecycle.
+- [Supply-chain Levels for Software Artifacts (SLSA)](https://github.com/slsa-framework/slsa) - _SLSA_ - security framework from source to service, giving anyone working with software a common language for increasing levels of software security and supply chain integrity. It’s how you get from safe enough to being as resilient as possible, at any link in the chain.
 
 ### Toolchains
 
