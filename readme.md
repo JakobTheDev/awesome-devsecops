@@ -303,7 +303,10 @@ Supply chain attacks come in different forms, targeting parts of the SDLC that a
 
 - [Preflight](https://github.com/spectralops/preflight) - _Spectral_ - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems, such as in the recent [Codecov hack](https://spectralops.io/blog/credentials-risk-supply-chain-lessons-from-the-codecov-breach/).
 - [Sigstore](https://www.sigstore.dev/) - sigstore is a set of free to use and open source tools, including [fulcio](https://github.com/sigstore/fulcio), [cosign](https://github.com/sigstore/cosign) and [rekor](https://github.com/sigstore/rekor), handling digital signing, verification and checks for provenance needed to make it safer to distribute and use open source software.
-
+- [Harden Runner GitHub Action](https://github.com/step-security/harden-runner) - Harden-Runner GitHub Action installs a security agent on the GitHub-hosted runner (Ubuntu VM) to:
+  1. Prevent exfiltration of credentials
+  2. Detect compromised dependencies and build tools
+  3. Detect tampering of source code during the build
 
 ### Threat Modelling
 
