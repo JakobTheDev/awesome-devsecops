@@ -19,8 +19,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Articles](#articles)
   - [Books](#books)
   - [Communities](#communities)
-  - [Newsletters](#newsletters)
   - [Conferences](#conferences)
+  - [Newsletters](#newsletters)
   - [Podcasts](#podcasts)
   - [Secure Development Guidelines](#secure-development-guidelines)
   - [Secure Development Lifecycle Framework](#secure-development-lifecycle-framework)
@@ -62,6 +62,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [AppSec Day](https://appsecday.io/) - _OWASP_ - An Australian application security conference run by OWASP.
 - [DevSecCon](https://www.devseccon.com/) - _Snyk_ - A network of DevSecOps conferences run by Snyk.
+
+### Newsletters
+- [Shift Security Left](https://shift-security-left.curated.co/) - _Cossack Labs_ - A free biweekly newsletter for security-aware developers covering application security, secure architecture, DevSecOps, cryptography, incidents, etc. that can be useful for builders and (to a lesser extent) for breakers. 
 
 ### Podcasts
 
