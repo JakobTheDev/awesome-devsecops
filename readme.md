@@ -54,10 +54,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [MyDevSecOps](https://www.mydevsecops.io/) - _Snyk_ - A community that runs conferences, a blog, a podcast and a Slack workspace dedicated to DevSecOps.
 
-### Newsletters
-
-- [Shift Security Left](https://shift-security-left.curated.co/) - A free biweekly newsletter for security-aware developers covering application security, secure architecture, DevSecOps, cryptography, incidents, etc. that can be useful for builders and (to a lesser extent) for breakers. Get a deeper understanding of causes for security vulnerabilities, designing defences, inventing and implementing security controls—with Felix, an imaginary mascot and a security engineer at [(@cossaсklabs)](https://twitter.com/cossacklabs).
-
 ### Conferences
 
 - [AppSec Day](https://appsecday.io/) - _OWASP_ - An Australian application security conference run by OWASP.
