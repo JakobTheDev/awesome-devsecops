@@ -53,7 +53,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ### Communities
 
 - [MyDevSecOps](https://www.mydevsecops.io/) - _Snyk_ - A community that runs conferences, a blog, a podcast and a Slack workspace dedicated to DevSecOps.
-
+- [Veracode Communities](https://community.veracode.com/s/) - _Veracode_ - Community forum for integration, code samples, bugs for Application Security Best practices. 
 ### Newsletters
 
 - [Shift Security Left](https://shift-security-left.curated.co/) - A free biweekly newsletter for security-aware developers covering application security, secure architecture, DevSecOps, cryptography, incidents, etc. that can be useful for builders and (to a lesser extent) for breakers. Get a deeper understanding of causes for security vulnerabilities, designing defences, inventing and implementing security controls—with Felix, an imaginary mascot and a security engineer at [(@cossaсklabs)](https://twitter.com/cossacklabs).
@@ -65,7 +65,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Newsletters
 - [Shift Security Left](https://shift-security-left.curated.co/) - _Cossack Labs_ - A free biweekly newsletter for security-aware developers covering application security, secure architecture, DevSecOps, cryptography, incidents, etc. that can be useful for builders and (to a lesser extent) for breakers. 
-
+- [Veracode] (https://www.veracode.com/resources?assettype=Webinars%2C%20Videos%2C%20and%20Podcasts#resources-results) - _Veracode_
 ### Podcasts
 
 - [Absolute AppSec](https://absoluteappsec.com/) - _Seth Law & Ken Johnson_ - Discussions about current events and specific topics related to application security.
@@ -82,7 +82,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Proactive Controls](https://owasp.org/www-project-proactive-controls/) - _OWASP_ - OWASP's list of top ten controls that should be implemented in every software development project.
 - [Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines) - _Mozilla_ - A guideline containing specific secure development standards for secure web application development.
 - [Secure Coding Practices Quick Reference Guide](https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_v2.pdf) - _OWASP_ - A checklist to verify that secure development standards have been followed.
-
+- [
 ### Secure Development Lifecycle Framework
 
 - [Building Security In Maturity Model (BSIMM)](https://www.bsimm.com/framework.html) - _Synopsys_ - A framework for software security created by observing and analysing data from leading software security initiatives.
@@ -128,6 +128,7 @@ Open source software packages can speed up the development process by allowing d
 - [NPM Audit](https://docs.npmjs.com/cli/audit) - _NPM_ - Vulnerable package auditing for node packages built into the npm CLI.
 - [Renovate](https://renovate.whitesourcesoftware.com/) - _WhiteSource_ - Automatically monitor and update software dependencies for multiple frameworks and languages using a CLI or git repository apps.
 - [Requires.io](https://requires.io/) - _Olivier Mansion & Alexis Tabary_ - Automated vulnerable dependency monitoring and upgrades for Python projects.
+- [Veracode Software Composition Analysis & SBOM] - _Veracode_ - CLI and Integrated automated SCA & SBOM with auto-PR and vulnerability management with proprietary database.
 - [Snyk Open Source](https://snyk.io/) - _Snyk_ - Automated vulnerable dependency monitoring and upgrades using Snyk's dedicated vulnerability database.
 
 ### Dynamic Analysis
@@ -163,6 +164,7 @@ Infrastructure as Code allows applications to be deployed reliably to a consiste
 - [Dagda](https://github.com/eliasgranderubio/dagda/) - _Elías Grande_ - Compares OS and software dependency versions installed in Docker containers with public vulnerability databases, and also performs virus scanning.
 - [Docker-Bench-Security](https://github.com/docker/docker-bench-security) - _Docker_ - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [Hadolint](https://github.com/hadolint/hadolint) - _Hadolint_ - Checks a Dockerfile against known rules and validates inline bash code in RUN statements.
+- [Veracode AppSec](https://www.veracode.com/products/software-composition-analysis) - _Veracode_ - Checks for third party dependencies and container vulnerability scanning. Integration and automation through CI/CD pipeline. 
 - [Snyk Container](https://snyk.io/product/container-vulnerability-management/) - _Snyk_ - Scan Docker and Kubernetes applications for security vulnerabilities during CI/CD or via continuous monitoring.
 - [Trivy](https://github.com/aquasecurity/trivy) - _Aqua Security_ - Simple and comprehensive vulnerability scanner for containers.
 
