@@ -241,6 +241,7 @@ Static Analysis Security Testing (SAST) tools scan software for vulnerabilities 
 - [Graudit](https://github.com/wireghoul/graudit/) - _Eldar Marcussen_ - Grep source code for potential security flaws with custom or pre-configured regex signatures.
 - [Hawkeye](https://github.com/hawkeyesec/scanner-cli) - _Hawkeyesec_ - Modularised CLI tool for project security, vulnerability and general risk highlighting.
 - [LGTM](https://lgtm.com/) - _Semmle_ - Scan and monitor code for security vulnerabilities using custom or built-in CodeQL queries.
+- [recon](https://github.com/rusty-ferris-club/recon) - _Dotan Nahum_ a fast Rust based CLI that uses SQL to scan over files, code, or malware with content classification and processing for security experts
 - [RIPS](https://www.ripstech.com/) - _RIPS Technologies_ - Automated static analysis for PHP, Java and Node.js projects.
 - [SemGrep](https://semgrep.dev/) - _r2c_ - Semgrep is a fast, open-source, static analysis tool that finds bugs and enforces code standards at editor, commit, and CI time.
 - [SonarLint](https://www.sonarlint.org/) - _SonarSource_ - An IDE plugin that highlights potential security security issues, code quality issues and bugs. 
