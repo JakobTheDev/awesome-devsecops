@@ -95,6 +95,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Application Security Education](https://github.com/duo-labs/appsec-education) - _Duo Security_ - Training materials created by the Duo application security team, including introductory and advanced training presentations and hands-on labs.
 - [Cybrary](https://www.cybrary.it/) - _Cybrary_ - Subscription based online courses with dedicated categories for cybersecurity and DevSecOps.
+- [Meta Package Manager](https://github.com/kdeldycke/meta-package-manager) - _Kevin Deldycke_ - Open-source CLI to inventory all packages installed on macOS, Linux and Windows.
 - [PentesterLab](https://pentesterlab.com/) - _PentesterLab_ - Hands on labs to understand and exploit simple and advanced web vulnerabilities.
 - [Practical DevSecOps](https://www.practical-devsecops.com) - _Practical DevSecOps_ - Learn DevSecOps concepts, tools, and techniques from industry experts with practical DevSecOps using state of the art browser-based labs.
 - [SafeStack](https://academy.safestack.io/) - _SafeStack_ - Security training for software development teams, designed to be accessible to individuals and small teams as well as larger organisations.
