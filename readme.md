@@ -184,10 +184,11 @@ Intentionally vulnerable applications are often useful when developing security 
 - [Cfngoat](https://github.com/bridgecrewio/cfngoat) - _Bridgecrew_ - Cloud Formation templates for creating stacks of intentionally insecure services in AWS. Ideal for testing the Cloud Formation Infrastructure as Code Analysis tools above.
 - [Damn Vulnerable Web App](http://www.dvwa.co.uk/) - _Ryan Dewhurst_ - A web application that provides a safe environment to understand and exploit common web vulnerabilities.
 - [Juice Shop](https://github.com/bkimminich/juice-shop) - _OWASP_ - A web application containing the OWASP Top 10 security vulnerabilities and more.
+- [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) - _Madhu Akula_ - Intentionally vulnerable cluster environment to learn and practice Kubernetes security.
 - [NodeGoat](https://github.com/OWASP/NodeGoat) - _OWASP_ - A Node.js web application that demonstrates and provides ways to address common security vulnerabilities.
 - [Terragoat](https://github.com/bridgecrewio/terragoat) - _Bridgecrew_ - Terraform templates for creating stacks of intentionally insecure services in AWS, Azure and GCP. Ideal for testing the Terraform Infrastructure as Code Analysis tools above.
-- [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) - _Madhu Akula_ - Intentionally vulnerable cluster environment to learn and practice Kubernetes security.
 - [Vulnerable Web Apps Directory](https://owasp.org/www-project-vulnerable-web-applications-directory) - _OWASP_ - A collection of vulnerable web applications for learning purposes.
+- [WrongSecrets](https://github.com/OWASP/wrongsecrets) - _OWASP_ - Vulnerable app with examples showing how to not use secrets
 
 ### Monitoring
 It's not enough to test and harden our software in the lead up to a release. We must also monitor our production software for usage, performance and errors to capture malicious behavior and potential security flaws that we may need to respond to or address. A wide variety of tools are available to monitor different aspects of production software and infrastructure.
