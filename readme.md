@@ -52,7 +52,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Communities
 
-- [MyDevSecOps](https://www.mydevsecops.io/) - _Snyk_ - A community that runs conferences, a blog, a podcast and a Slack workspace dedicated to DevSecOps.
+- [TAG Security](https://tag-security.cncf.io/) - _Cloud Native Computing Foundation_ - TAG Security facilitates collaboration to discover and produce resources that enable secure access, policy control, and safety for operators, administrators, developers, and end-users across the cloud native ecosystem.
 
 ### Conferences
 
@@ -124,7 +124,7 @@ Open source software packages can speed up the development process by allowing d
 - [NPM Audit](https://docs.npmjs.com/cli/audit) - _NPM_ - Vulnerable package auditing for node packages built into the npm CLI.
 - [Renovate](https://renovate.whitesourcesoftware.com/) - _WhiteSource_ - Automatically monitor and update software dependencies for multiple frameworks and languages using a CLI or git repository apps.
 - [Requires.io](https://requires.io/) - _Olivier Mansion & Alexis Tabary_ - Automated vulnerable dependency monitoring and upgrades for Python projects.
-- [Snyk Open Source](https://snyk.io/) - _Snyk_ - Automated vulnerable dependency monitoring and upgrades using Snyk's dedicated vulnerability database.
+- [Snyk Open Source]([https://snyk.io/](https://snyk.io/product/open-source-security-management/)) - _Snyk_ - Automated vulnerable dependency monitoring and upgrades using Snyk's dedicated vulnerability database.
 
 ### Dynamic Analysis
 
@@ -155,9 +155,10 @@ Infrastructure as Code allows applications to be deployed reliably to a consiste
 <!-- omit in toc -->
 #### Containers
 - [Anchore Engine](https://anchore.com/opensource/) - _Anchore, Inc_ - Deep inspection of Docker images for CVEs and checking against custom policies. Engine behind their enterprise products that integrate against registries, orchestrators and CI/CD products.
-- [Clair](https://github.com/quay/clair) - _Quay_ - Scan App Container and Docker containers for publicly disclosed vulnerabilities.
+- [Clair](https://github.com/quay/clair) - _Red Hat_ - Scan App Container and Docker containers for publicly disclosed vulnerabilities.
 - [Dagda](https://github.com/eliasgranderubio/dagda/) - _Elías Grande_ - Compares OS and software dependency versions installed in Docker containers with public vulnerability databases, and also performs virus scanning.
 - [Docker-Bench-Security](https://github.com/docker/docker-bench-security) - _Docker_ - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
+- [Grype](https://github.com/anchore/grype/) - _Anchore_ - An easy-to-integrate open source vulnerability scanning tool for container images and filesystems.
 - [Hadolint](https://github.com/hadolint/hadolint) - _Hadolint_ - Checks a Dockerfile against known rules and validates inline bash code in RUN statements.
 - [Snyk Container](https://snyk.io/product/container-vulnerability-management/) - _Snyk_ - Scan Docker and Kubernetes applications for security vulnerabilities during CI/CD or via continuous monitoring.
 - [Trivy](https://github.com/aquasecurity/trivy) - _Aqua Security_ - Simple and comprehensive vulnerability scanner for containers.
@@ -184,6 +185,7 @@ Intentionally vulnerable applications are often useful when developing security 
 - [Cfngoat](https://github.com/bridgecrewio/cfngoat) - _Bridgecrew_ - Cloud Formation templates for creating stacks of intentionally insecure services in AWS. Ideal for testing the Cloud Formation Infrastructure as Code Analysis tools above.
 - [Damn Vulnerable Web App](http://www.dvwa.co.uk/) - _Ryan Dewhurst_ - A web application that provides a safe environment to understand and exploit common web vulnerabilities.
 - [Juice Shop](https://github.com/bkimminich/juice-shop) - _OWASP_ - A web application containing the OWASP Top 10 security vulnerabilities and more.
+- [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) - _Madhu Akula_ - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground.
 - [NodeGoat](https://github.com/OWASP/NodeGoat) - _OWASP_ - A Node.js web application that demonstrates and provides ways to address common security vulnerabilities.
 - [Terragoat](https://github.com/bridgecrewio/terragoat) - _Bridgecrew_ - Terraform templates for creating stacks of intentionally insecure services in AWS, Azure and GCP. Ideal for testing the Terraform Infrastructure as Code Analysis tools above.
 - [Vulnerable Web Apps Directory](https://owasp.org/www-project-vulnerable-web-applications-directory) - _OWASP_ - A collection of vulnerable web applications for learning purposes.
@@ -308,6 +310,7 @@ Supply chain attacks come in different forms, targeting parts of the SDLC that a
 - [Harden Runner GitHub Action](https://github.com/step-security/harden-runner) - _StepSecurity_ - installs a security agent on the GitHub-hosted runner (Ubuntu VM) to prevent exfiltration of credentials, detect compromised dependencies and build tools, and detect tampering of source code during the build.
 - [Preflight](https://github.com/spectralops/preflight) - _Spectral_ - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems, such as in the recent [Codecov hack](https://spectralops.io/blog/credentials-risk-supply-chain-lessons-from-the-codecov-breach/).
 - [Sigstore](https://www.sigstore.dev/) - sigstore is a set of free to use and open source tools, including [fulcio](https://github.com/sigstore/fulcio), [cosign](https://github.com/sigstore/cosign) and [rekor](https://github.com/sigstore/rekor), handling digital signing, verification and checks for provenance needed to make it safer to distribute and use open source software.
+- [Syft](https://github.com/anchore/syft/) - _Anchore_ - A CLI tool for generating a Software Bill of Materials (SBOM) from container images and filesystems.
 
 ### Threat Modelling
 
