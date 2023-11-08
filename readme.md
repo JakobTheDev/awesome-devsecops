@@ -161,6 +161,8 @@ Infrastructure as Code allows applications to be deployed reliably to a consiste
 - [Hadolint](https://github.com/hadolint/hadolint) - _Hadolint_ - Checks a Dockerfile against known rules and validates inline bash code in RUN statements.
 - [Snyk Container](https://snyk.io/product/container-vulnerability-management/) - _Snyk_ - Scan Docker and Kubernetes applications for security vulnerabilities during CI/CD or via continuous monitoring.
 - [Trivy](https://github.com/aquasecurity/trivy) - _Aqua Security_ - Simple and comprehensive vulnerability scanner for containers.
+- [amicontained](https://github.com/genuinetools/amicontained) - genuinetools - Container introspection tool. Find out what container runtime is being used as well as features available.
+- [Grype](https://github.com/anchore/grype) - Anchore - A vulnerability scanner for container images and filesystems
 
 <!-- omit in toc -->
 #### Terraform
@@ -214,6 +216,7 @@ The software we write needs to use secrets (passwords, API keys, certificates, d
 - [Pinterest Knox](https://github.com/pinterest/knox) - _Pinterest_ - Securely store, rotate and audit secrets.
 - [Secrets Operations (SOPS)](https://github.com/mozilla/sops) - _Mozilla_ - Encrypt keys stored within YAML, JSON, ENV, INI and BINARY files.
 - [Teller](https://github.com/spectralops/teller) - _Spectral_ - A secrets management tool for developers - never leave your command line for secrets.
+- [Vault](https://github.com/hashicorp/vault) - Hashicorp - A tool for secrets management, encryption as a service, and privileged access management.
 
 
 ### Secrets Scanning
