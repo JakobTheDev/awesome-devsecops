@@ -259,7 +259,7 @@ Static Analysis Security Testing (SAST) tools scan software for vulnerabilities 
 <!-- omit in toc -->
 #### Configuration Files
 - [Conftest](https://github.com/instrumenta/conftest) - _Instrumenta_ - Create custom tests to scan any configuration file for security flaws.
-- [Selefra](https://github.com/selefra/selefra) - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
+- [Selefra](https://github.com/selefra/selefra) - _Selefra_ - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
 
 <!-- omit in toc -->
 #### Java
