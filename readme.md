@@ -53,7 +53,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Communities
 
-- [MyDevSecOps](https://www.mydevsecops.io/) - _Snyk_ - A community that runs conferences, a blog, a podcast and a Slack workspace dedicated to DevSecOps.
+- [DevSecCon](https://www.devseccon.com/) - _Snyk_ - A community that runs conferences, a blog, a podcast and a Discord dedicated to DevSecOps.
+- [TAG Security](https://tag-security.cncf.io/) - _Cloud Native Computing Foundation_ - TAG Security facilitates collaboration to discover and produce resources that enable secure access, policy control, and safety for operators, administrators, developers, and end-users across the cloud native ecosystem.
 
 ### Conferences
 
@@ -61,6 +62,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [DevSecCon](https://www.devseccon.com/) - _Snyk_ - A network of DevSecOps conferences run by Snyk.
 
 ### Newsletters
+
 - [Shift Security Left](https://shift-security-left.curated.co/) - _Cossack Labs_ - A free biweekly newsletter for security-aware developers covering application security, secure architecture, DevSecOps, cryptography, incidents, etc. that can be useful for builders and (to a lesser extent) for breakers. 
 
 ### Podcasts
@@ -125,7 +127,7 @@ Open source software packages can speed up the development process by allowing d
 - [NPM Audit](https://docs.npmjs.com/cli/audit) - _NPM_ - Vulnerable package auditing for node packages built into the npm CLI.
 - [Renovate](https://renovate.whitesourcesoftware.com/) - _WhiteSource_ - Automatically monitor and update software dependencies for multiple frameworks and languages using a CLI or git repository apps.
 - [Requires.io](https://requires.io/) - _Olivier Mansion & Alexis Tabary_ - Automated vulnerable dependency monitoring and upgrades for Python projects.
-- [Snyk Open Source](https://snyk.io/) - _Snyk_ - Automated vulnerable dependency monitoring and upgrades using Snyk's dedicated vulnerability database.
+- [Snyk Open Source](https://snyk.io/product/open-source-security-management/) - _Snyk_ - Automated vulnerable dependency monitoring and upgrades using Snyk's dedicated vulnerability database.
 
 ### Dynamic Analysis
 
@@ -155,10 +157,10 @@ Infrastructure as Code allows applications to be deployed reliably to a consiste
 
 <!-- omit in toc -->
 #### Containers
-- [Anchore Engine](https://anchore.com/opensource/) - _Anchore, Inc_ - Deep inspection of Docker images for CVEs and checking against custom policies. Engine behind their enterprise products that integrate against registries, orchestrators and CI/CD products.
-- [Clair](https://github.com/quay/clair) - _Quay_ - Scan App Container and Docker containers for publicly disclosed vulnerabilities.
+- [Clair](https://github.com/quay/clair) - _Red Hat_ - Scan App Container and Docker containers for publicly disclosed vulnerabilities.
 - [Dagda](https://github.com/eliasgranderubio/dagda/) - _Elías Grande_ - Compares OS and software dependency versions installed in Docker containers with public vulnerability databases, and also performs virus scanning.
 - [Docker-Bench-Security](https://github.com/docker/docker-bench-security) - _Docker_ - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
+- [Grype](https://github.com/anchore/grype/) - _Anchore_ - An easy-to-integrate open source vulnerability scanning tool for container images and filesystems.
 - [Hadolint](https://github.com/hadolint/hadolint) - _Hadolint_ - Checks a Dockerfile against known rules and validates inline bash code in RUN statements.
 - [Snyk Container](https://snyk.io/product/container-vulnerability-management/) - _Snyk_ - Scan Docker and Kubernetes applications for security vulnerabilities during CI/CD or via continuous monitoring.
 - [Trivy](https://github.com/aquasecurity/trivy) - _Aqua Security_ - Simple and comprehensive vulnerability scanner for containers.
@@ -317,6 +319,7 @@ Supply chain attacks come in different forms, targeting parts of the SDLC that a
 - [Overlay](https://github.com/os-scar/overlay) - _SCAR_ - a browser extension helping developers evaluate open source packages before picking them.
 - [Preflight](https://github.com/spectralops/preflight) - _Spectral_ - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems, such as in the recent [Codecov hack](https://spectralops.io/blog/credentials-risk-supply-chain-lessons-from-the-codecov-breach/).
 - [Sigstore](https://www.sigstore.dev/) - sigstore is a set of free to use and open source tools, including [fulcio](https://github.com/sigstore/fulcio), [cosign](https://github.com/sigstore/cosign) and [rekor](https://github.com/sigstore/rekor), handling digital signing, verification and checks for provenance needed to make it safer to distribute and use open source software.
+- [Syft](https://github.com/anchore/syft/) - _Anchore_ - A CLI tool for generating a Software Bill of Materials (SBOM) from container images and filesystems.
 
 ### Threat Modelling
 
