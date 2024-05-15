@@ -193,6 +193,7 @@ Intentionally vulnerable applications are often useful when developing security 
 It's not enough to test and harden our software in the lead up to a release. We must also monitor our production software for usage, performance and errors to capture malicious behavior and potential security flaws that we may need to respond to or address. A wide variety of tools are available to monitor different aspects of production software and infrastructure.
 
 - [Csper](https://csper.io/report-uri) - _Csper_ - A set of Content Security Policy tools that can test policies, monitor CSP reports and provide metrics and alerts.
+- [Streamdal](https://streamdal.com) - _Streamdal_ - Embed privacy controls in your application code to detect and monitor PII as it enters and leaves your systems, preventing it from reaching unintended databases, data streams, or pipelines.
 
 ### Secrets Management
 
