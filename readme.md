@@ -52,6 +52,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Communities
 
+- [DevSecCon](https://www.devseccon.com/) - _Snyk_ - A community that runs conferences, a blog, a podcast and a Discord dedicated to DevSecOps.
 - [TAG Security](https://tag-security.cncf.io/) - _Cloud Native Computing Foundation_ - TAG Security facilitates collaboration to discover and produce resources that enable secure access, policy control, and safety for operators, administrators, developers, and end-users across the cloud native ecosystem.
 
 ### Conferences
@@ -60,6 +61,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [DevSecCon](https://www.devseccon.com/) - _Snyk_ - A network of DevSecOps conferences run by Snyk.
 
 ### Newsletters
+
 - [Shift Security Left](https://shift-security-left.curated.co/) - _Cossack Labs_ - A free biweekly newsletter for security-aware developers covering application security, secure architecture, DevSecOps, cryptography, incidents, etc. that can be useful for builders and (to a lesser extent) for breakers. 
 
 ### Podcasts
@@ -124,7 +126,7 @@ Open source software packages can speed up the development process by allowing d
 - [NPM Audit](https://docs.npmjs.com/cli/audit) - _NPM_ - Vulnerable package auditing for node packages built into the npm CLI.
 - [Renovate](https://renovate.whitesourcesoftware.com/) - _WhiteSource_ - Automatically monitor and update software dependencies for multiple frameworks and languages using a CLI or git repository apps.
 - [Requires.io](https://requires.io/) - _Olivier Mansion & Alexis Tabary_ - Automated vulnerable dependency monitoring and upgrades for Python projects.
-- [Snyk Open Source]([https://snyk.io/](https://snyk.io/product/open-source-security-management/)) - _Snyk_ - Automated vulnerable dependency monitoring and upgrades using Snyk's dedicated vulnerability database.
+- [Snyk Open Source](https://snyk.io/product/open-source-security-management/) - _Snyk_ - Automated vulnerable dependency monitoring and upgrades using Snyk's dedicated vulnerability database.
 
 ### Dynamic Analysis
 
