@@ -186,6 +186,7 @@ Intentionally vulnerable applications are often useful when developing security 
 
 - [Bad SSL](https://github.com/chromium/badssl.com) - _The Chromium Project_ - A container running a number of webservers with poor SSL / TLS configuration. Useful for testing tooling.
 - [Cfngoat](https://github.com/bridgecrewio/cfngoat) - _Bridgecrew_ - Cloud Formation templates for creating stacks of intentionally insecure services in AWS. Ideal for testing the Cloud Formation Infrastructure as Code Analysis tools above.
+- [CI/CD Goat](https://github.com/cider-security-research/cicd-goat) - _Cider Security_ - A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
 - [Damn Vulnerable Web App](http://www.dvwa.co.uk/) - _Ryan Dewhurst_ - A web application that provides a safe environment to understand and exploit common web vulnerabilities.
 - [Juice Shop](https://github.com/bkimminich/juice-shop) - _OWASP_ - A web application containing the OWASP Top 10 security vulnerabilities and more.
 - [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) - _Madhu Akula_ - Intentionally vulnerable cluster environment to learn and practice Kubernetes security.
