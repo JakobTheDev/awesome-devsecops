@@ -105,6 +105,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [SecureFlag](https://www.secureflag.com/platform.html) - _OWASP_ - Hands-on secure coding training for Developers and Build/Release Engineers.
 - [Security Training for Engineers](https://sudo.pagerduty.com/for_engineers/) - _Pager Duty_ - A presentation created and open-sourced by PagerDuty to provide security training to software engineers.
 - [Security Training for Everyone](https://sudo.pagerduty.com/for_everyone/) - _Pager Duty_ - A presentation created and open-sourced by PagerDuty to provide security training employees.
+- [Semgrep Academy](https://academy.semgrep.dev/) - _Semgrep_ - Free, on-demand courses covering topics including API security, secure coding and application security.  
 - [Web Security Academy](https://portswigger.net/web-security) - _PortSwigger_ - A set of materials and labs to learn and exploit common web vulnerabilities.
 - [WeHackPuple](https://wehackpurple.com/) - _WeHackPurple_ - Online courses that teach application security theory and hands-on technical lessons.
 
